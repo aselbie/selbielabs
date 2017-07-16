@@ -1,3 +1,4 @@
 baseURL = "http://selbielabs.come/"
+publishDir = "dist"
 languageCode = "en-us"
 title = "Selbie Labs"
