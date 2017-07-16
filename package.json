@@ -9,6 +9,18 @@
   },
   "author": "",
   "license": "ISC",
+  "babel": {
+    "presets": [
+      [
+        "env",
+        {
+          "targets": {
+            "browsers": ["last 2 versions", "safari >= 7"]
+          }
+        }
+      ]
+    ]
+  },
   "devDependencies": {
     "autoprefixer": "^7.1.2",
     "babel-brunch": "^6.1.1",

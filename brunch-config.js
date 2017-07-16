@@ -10,8 +10,11 @@ module.exports = {
       }
     }
   },
+  modules: {
+    wrapper: false
+  },
   paths: {
     public: "static",
-    watched: ["src"],
+    watched: ["src"]
   }
 };
