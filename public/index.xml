@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Selbie Labs</title>
+    <link>http://selbielabs.come/</link>
+    <description>Recent content on Selbie Labs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 15 Jul 2017 16:33:47 -0700</lastBuildDate>
+    
+	<atom:link href="http://selbielabs.come/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Inspiration</title>
+      <link>http://selbielabs.come/inspiration/</link>
+      <pubDate>Sat, 15 Jul 2017 16:33:47 -0700</pubDate>
+      
+      <guid>http://selbielabs.come/inspiration/</guid>
+      <description>Articles  The Slow Web The Web is a Customer Service Medium The Case for Slow Programming How Developers Stop Learning: Rise of the Expert Beginner On Being A Senior Engineer Out of the Tar Pit  Videos  The Birth and Death of Javascript Power of Simplicity Joe Armstrong interviews Alan Kay  Talks by Rich Hickey  Simple Made Easy The Value of Values Are We There Yet?</description>
+    </item>
+    
+  </channel>
+</rss>
