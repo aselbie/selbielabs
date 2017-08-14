@@ -40,6 +40,9 @@ header {
   text-transform: lowercase;
   font-size: 1.5em;
 
+  a {
+    border-bottom-width: 0;
+  }
 
   .prompt {
     color: $yellow;
